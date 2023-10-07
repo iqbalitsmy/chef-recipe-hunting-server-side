@@ -1,0 +1,378 @@
+[
+    {
+        "id": 1,
+        "profile": "https://www.dining-out.co.za/ftp/cp/SavagesNewChefProfile.jpg",
+        "name": "Chef Alice Smith",
+        "yearsOfExperience": 8,
+        "numberOfRecipes": 70,
+        "likes": 1200,
+        "bio": "Passionate chef with 8 years of experience. Specializing in diverse cuisines. Known for creativity and dedication to culinary art.",
+        "recipes": [
+            {
+                "id": 1,
+                "link": "https://abountifulkitchen.com/wp-content/uploads/2012/09/IMG_4304.jpg",
+                "name": "Mango Tango Salad",
+                "ingredients": [
+                    "Mangoes",
+                    "Mixed greens",
+                    "Red onions",
+                    "Avocado",
+                    "Lime dressing"
+                ],
+                "cookingMethod": [
+                    "Slice mangoes and avocados.",
+                    "Toss with mixed greens, red onions, and lime dressing."
+                ],
+                "rating": 4.5
+            },
+            {
+                "id": 2,
+                "link": "https://www.savoryonline.com/app/uploads/recipes/218175/pasta-primavera-640x640-c-default.jpg",
+                "name": "Savory Pasta Primavera",
+                "ingredients": [
+                    "Pasta",
+                    "Assorted vegetables",
+                    "Olive oil",
+                    "Parmesan cheese",
+                    "Garlic"
+                ],
+                "cookingMethod": [
+                    "Cook pasta al dente.",
+                    "Sauté vegetables in olive oil with garlic.",
+                    "Toss with pasta and Parmesan cheese."
+                ],
+                "rating": 4.2
+            },
+            {
+                "id": 3,
+                "link": "https://cdn-prd.healthymealplans.com/recipe/58b0467e52824bfe97451882d4711bee-Vanilla-Berry-Bliss-Smoothie_1x1_Healthy-Meal-Plans.jpg",
+                "name": "Berry Bliss Smoothie",
+                "ingredients": [
+                    "Berries",
+                    "Yogurt",
+                    "Honey",
+                    "Banana",
+                    "Almond milk"
+                ],
+                "cookingMethod": [
+                    "Blend berries, yogurt, honey, banana, and almond milk until smooth."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "profile": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7GYeA2KJ-nAKqP4GK0hS27RLEdCAP0A3ajw&usqp=CAU",
+        "name": "Chef David Johnson",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 90,
+        "likes": 1800,
+        "bio": "Award-winning chef with 15 years of experience. Expert in fusion cuisine. Known for innovative recipes and attention to detail.",
+        "recipes": [
+            {
+                "id": 4,
+                "link": "https://media-cdn.tripadvisor.com/media/photo-s/0f/71/e1/e5/hot-cheetos-sushi-burrito.jpg",
+                "name": "Spicy Sushi Burrito",
+                "ingredients": [
+                    "Sushi rice",
+                    "Nori seaweed",
+                    "Spicy tuna",
+                    "Avocado",
+                    "Soy sauce"
+                ],
+                "cookingMethod": [
+                    "Layer sushi rice and ingredients on nori.",
+                    "Roll and serve with soy sauce."
+                ],
+                "rating": 4.8
+            },
+            {
+                "id": 5,
+                "link": "https://whisperofyum.com/wp-content/uploads/2020/12/thai-basil-chicken-1.jpg",
+                "name": "Thai Basil Chicken",
+                "ingredients": [
+                    "Chicken",
+                    "Thai basil",
+                    "Garlic",
+                    "Chilies",
+                    "Fish sauce"
+                ],
+                "cookingMethod": [
+                    "Sauté chicken with garlic and chilies.",
+                    "Add Thai basil and fish sauce.",
+                    "Serve with rice."
+                ],
+                "rating": 4.7
+            },
+            {
+                "id": 6,
+                "link": "https://www.tashasartisanfoods.com/blog/wp-content/uploads/2015/05/Mango-Coconut-Popsicle-4-1.jpg",
+                "name": "Mango Coconut Popsicles",
+                "ingredients": [
+                    "Mangoes",
+                    "Coconut milk",
+                    "Honey",
+                    "Lime juice"
+                ],
+                "cookingMethod": [
+                    "Blend mangoes, coconut milk, honey, and lime juice.",
+                    "Freeze in popsicle molds."
+                ],
+                "rating": 4.5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "profile": "https://chefin.com.au/wp-content/uploads/2021/02/chef-jason-ludiwg-profile-1.jpg",
+        "name": "Chef Sarah Brown",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 40,
+        "likes": 800,
+        "bio": "Talented chef with 5 years of experience. Enthusiastic about farm-to-table cooking. Passionate about seasonal and local ingredients.",
+        "recipes": [
+            {
+                "id": 7,
+                "link": "https://brooklynfarmgirl.com/wp-content/uploads/2016/02/Cheesy-Vegetable-Omelette_10-683x1024.jpg",
+                "name": "Farm Fresh Omelette",
+                "ingredients": [
+                    "Eggs",
+                    "Spinach",
+                    "Mushrooms",
+                    "Tomatoes",
+                    "Cheese"
+                ],
+                "cookingMethod": [
+                    "Whisk eggs.",
+                    "Cook with spinach, mushrooms, tomatoes, and cheese.",
+                    "Fold and serve."
+                ],
+                "rating": 4.2
+            },
+            {
+                "id": 8,
+                "link": "https://www.deliciousmagazine.co.uk/wp-content/uploads/2020/02/069-roasted-vegetable-salad-768x960.jpg",
+                "name": "Roasted Vegetable Quinoa Salad",
+                "ingredients": [
+                    "Quinoa",
+                    "Assorted vegetables",
+                    "Olive oil",
+                    "Balsamic vinegar",
+                    "Feta cheese"
+                ],
+                "cookingMethod": [
+                    "Cook quinoa and roast vegetables.",
+                    "Toss with olive oil, balsamic vinegar, and feta cheese."
+                ],
+                "rating": 4.4
+            },
+            {
+                "id": 9,
+                "link": "https://www.livinglou.com/wp-content/uploads/2018/07/blueberry-lemon-pancakes-1.jpg",
+                "name": "Lemon Blueberry Pancakes",
+                "ingredients": [
+                    "Pancake mix",
+                    "Blueberries",
+                    "Lemon zest",
+                    "Maple syrup"
+                ],
+                "cookingMethod": [
+                    "Prepare pancake mix with blueberries and lemon zest.",
+                    "Serve with maple syrup."
+                ],
+                "rating": 4.6
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "profile": "https://www.avenuecalgary.com/wp-content/uploads/ChefProfile-MichaelAllemeier.jpg",
+        "name": "Chef Michael Lee",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1500,
+        "bio": "Experienced chef with 12 years in fine dining. Creative approach to modern cuisine. A culinary artist with a focus on flavor.",
+        "recipes": [
+            {
+                "id": 10,
+                "link": "https://www.skinnytaste.com/wp-content/uploads/2022/02/Healthy-Lobster-Bisque-9.jpg",
+                "name": "Lobster Bisque",
+                "ingredients": [
+                    "Lobster",
+                    "Heavy cream",
+                    "Sherry wine",
+                    "Onions",
+                    "Butter"
+                ],
+                "cookingMethod": [
+                    "Sauté onions and lobster.",
+                    "Add cream and sherry wine.",
+                    "Simmer and serve."
+                ],
+                "rating": 4.7
+            },
+            {
+                "id": 11,
+                "link": "https://natashaskitchen.com/wp-content/uploads/2015/12/Filet-Mignon-Recipe-8.jpg",
+                "name": "Filet Mignon with Red Wine Sauce",
+                "ingredients": [
+                    "Filet mignon steak",
+                    "Red wine",
+                    "Shallots",
+                    "Butter",
+                    "Thyme"
+                ],
+                "cookingMethod": [
+                    "Sear steak and make red wine sauce with shallots, butter, and thyme.",
+                    "Serve with sauce."
+                ],
+                "rating": 4.9
+            },
+            {
+                "id": 12,
+                "link": "https://www.acouplecooks.com/wp-content/uploads/2022/02/Lava-Cake-005s.jpg",
+                "name": "Chocolate Lava Cake",
+                "ingredients": [
+                    "Chocolate",
+                    "Eggs",
+                    "Sugar",
+                    "Butter",
+                    "Flour"
+                ],
+                "cookingMethod": [
+                    "Melt chocolate and butter.",
+                    "Beat eggs and sugar, then mix with melted chocolate and flour.",
+                    "Bake and serve with a molten center."
+                ],
+                "rating": 4.8
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "profile": "https://foodie.sysco.com/wp-content/uploads/2019/07/MarcusMeansChefProfile_800x850.jpg",
+        "name": "Chef Emily White",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 55,
+        "likes": 1100,
+        "bio": "Passionate about bringing flavors to life. 7 years of culinary adventures. Focused on creating memorable and delightful dishes.",
+        "recipes": [
+            {
+                "id": 13,
+                "link": "https://www.monpetitfour.com/wp-content/uploads/2017/02/chocolate-souffle-copy-735x490.jpg",
+                "name": "Chocolate Soufflé",
+                "ingredients": [
+                    "Chocolate",
+                    "Eggs",
+                    "Sugar",
+                    "Butter",
+                    "Vanilla"
+                ],
+                "cookingMethod": [
+                    "Melt chocolate and butter.",
+                    "Beat eggs, sugar, and vanilla.",
+                    "Fold in chocolate.",
+                    "Bake and serve."
+                ],
+                "rating": 4.9
+            },
+            {
+                "id": 14,
+                "link": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2003/9/22/0/tm1a35_caprese_salad.jpg.rend.hgtvcom.616.462.suffix/1530799984231.jpeg",
+                "name": "Caprese Salad",
+                "ingredients": [
+                    "Tomatoes",
+                    "Fresh mozzarella",
+                    "Basil leaves",
+                    "Balsamic vinegar",
+                    "Olive oil"
+                ],
+                "cookingMethod": [
+                    "Slice tomatoes and mozzarella.",
+                    "Arrange with basil leaves, drizzle with balsamic vinegar and olive oil."
+                ],
+                "rating": 4.6
+            },
+            {
+                "id": 15,
+                "link": "https://www.sipandfeast.com/wp-content/uploads/2019/01/lemon-garlic-shrimp-pasta-snippet.jpg",
+                "name": "Lemon Garlic Shrimp Pasta",
+                "ingredients": [
+                    "Shrimp",
+                    "Pasta",
+                    "Lemon juice",
+                    "Garlic",
+                    "Parsley"
+                ],
+                "cookingMethod": [
+                    "Sauté shrimp with garlic and lemon juice.",
+                    "Toss with cooked pasta and parsley."
+                ],
+                "rating": 4.7
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "profile": "https://www.yorkshirepost.co.uk/webimg/QVNIMTE3ODE4Mzkx.jpg",
+        "name": "Chef James Brown",
+        "yearsOfExperience": 9,
+        "numberOfRecipes": 65,
+        "likes": 1300,
+        "bio": "Dedicated chef with 9 years of experience. Loves experimenting with global flavors. A culinary explorer and storyteller.",
+        "recipes": [
+            {
+                "id": 16,
+                "link": "https://lifemadesweeter.com/wp-content/uploads/Easy-Tofu-Stir-Fry-Recipe-Photo.jpg",
+                "name": "Savory Tofu Stir-Fry",
+                "ingredients": [
+                    "Tofu",
+                    "Broccoli",
+                    "Bell peppers",
+                    "Soy sauce",
+                    "Ginger"
+                ],
+                "cookingMethod": [
+                    "Sauté tofu and vegetables with soy sauce and ginger.",
+                    "Serve hot."
+                ],
+                "rating": 4.4
+            },
+            {
+                "id": 17,
+                "link": "https://i0.wp.com/www.nourishdeliciously.com/wp-content/uploads/2022/11/DSC_9207.jpg",
+                "name": "Chicken Tikka Masala",
+                "ingredients": [
+                    "Chicken",
+                    "Tomato sauce",
+                    "Yogurt",
+                    "Spices",
+                    "Rice"
+                ],
+                "cookingMethod": [
+                    "Marinate chicken in yogurt and spices.",
+                    "Simmer in tomato sauce and serve with rice."
+                ],
+                "rating": 4.6
+            },
+            {
+                "id": 18,
+                "link": "https://cdn.loveandlemons.com/wp-content/uploads/2019/09/margherita-pizza.jpg",
+                "name": "Classic Margherita Pizza",
+                "ingredients": [
+                    "Pizza dough",
+                    "Tomato sauce",
+                    "Fresh mozzarella",
+                    "Fresh basil",
+                    "Olive oil"
+                ],
+                "cookingMethod": [
+                    "Roll out pizza dough, top with tomato sauce, mozzarella, and basil.",
+                    "Bake until golden, drizzle with olive oil."
+                ],
+                "rating": 4.5
+            }
+        ]
+    }
+]
